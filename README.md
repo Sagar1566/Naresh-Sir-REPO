@@ -127,6 +127,10 @@ git push -u origin main
 
 Happy Coding 🚀
 
-```
-![Account Image](image)
-![Demo Image](image copy)
+## Screenshots
+
+### Account Image
+![Account Image](image.png)
+
+### Demo Image
+![Demo Image](image%20copy.png)
