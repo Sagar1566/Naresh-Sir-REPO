@@ -1,0 +1,2 @@
+# Output folder for prediction results
+# result.csv will be generated here after running train.py
